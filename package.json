@@ -1,6 +1,7 @@
 {
   "name": "vanilla-basic",
   "version": "1.0.0",
+  "build": "azure",
   "scripts": { 
     "start": "sirv ./src public --cors --single --no-clear --port 8000"
   }
